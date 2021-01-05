@@ -30,9 +30,6 @@
 - ⚡ Fun fact: I spend almost 24 hours with my dog and laptop.
 
 
-[![Linkedin: Vatsal Verma](https://img.shields.io/badge/-Vatsal Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vatsal-verma22/)](https://www.linkedin.com/in/vatsal-verma22/)
-[![GitHub Vatsalcode](https://img.shields.io/github/followers/vatsalcode?label=follow&style=social)](https://github.com/vatsalcode)
-
 
 **Languages and Tools:**  
 
@@ -51,7 +48,10 @@
 </a>
 <a href="https://github.com/vatsalcode/Sorting-Algo-visulizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Sorting-Algo-visulizer&theme=light" />
-
+</a>
+<a href="https://github.com/vatsalcode/Codeshow-100days_of_code">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Codeshow-100days_of_code&theme=light" />
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
