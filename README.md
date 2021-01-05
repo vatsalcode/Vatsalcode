@@ -1,4 +1,4 @@
-## Hola, I'm [Vatsal Verma!] 👋
+## Hey, I'm [Vatsal Verma!] 
 
 
 
@@ -20,22 +20,25 @@
 <br/>
 
 
-
-- 🔭 I’m currently working on ML, Augumented Reality and AI
+- 💻 3rd Year Undergrad majoring in Computer Science.
+- 🔭 I’m currently working on ML, Augumented Reality and AI.
 - 🌱 I’m currently learning more about AR and AI.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 24 hours with my dog and laptop.
 
 
 
-**Languages and Tools:**  
+### Languages and Tools:  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C++/C++.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Python/Python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Latex/Latex.png"></code>    
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
+
+### 🔧 Technologies
+![C#](https://img.icons8.com/color/25/000000/c-sharp-logo.png)![Python](https://img.icons8.com/color/30/000000/python.png)![WordPress](https://img.icons8.com/color/25/wordpress.png)![NPM](https://img.icons8.com/color/25/npm.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
 <a href="https://github.com/vatsalcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalcode&theme=light&hide_langs_below=1" />
@@ -50,8 +53,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Codeshow-100days_of_code&theme=light" />
 </a>
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
