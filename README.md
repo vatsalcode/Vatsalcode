@@ -31,7 +31,7 @@
 
 
 [![Linkedin: Vatsal Verma](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vatsal-verma22/)](https://www.linkedin.com/in/vatsal-verma22/)
-[![GitHub Vatsalcode](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/vatsalcode)
+[![GitHub Vatsalcode](https://img.shields.io/github/followers/vatsalcode?label=follow&style=social)](https://github.com/vatsalcode)
 
 
 **Languages and Tools:**  
