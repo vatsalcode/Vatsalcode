@@ -1,7 +1,6 @@
 ## Hey, I'm [Vatsal Verma!] 
 
 
-Site- https://linktr.ee/Vatsalcode 
  
 <a href="https://www.linkedin.com/in/vatsal-verma22/">
   <img align="left" alt="Vatsal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,13 +19,8 @@ Site- https://linktr.ee/Vatsalcode
 <br/>
 
 
-- 💻 3rd Year Undergrad majoring in Computer Science.
-- 🔭 I’m currently working on ML, Augumented Reality and AI.
-- 🌱 I’m currently learning more about AR and AI.
-- ⚡ Fun fact: I spend almost 24 hours with my dog and laptop.
-
-
-
+-  3rd Year Undergrad majoring in Computer Science.
+-  I’m currently working on ML, Augumented Reality and AI.
 ### Languages and Tools:  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
