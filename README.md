@@ -19,7 +19,8 @@
 <br/>
 
 
--  3rd Year Undergrad majoring in Computer Science.
+-  3rd Year Undergrad majoring in Computer Science
+-  Incoming Research Intern'21 at Mitacs Globalink ETS-Montreal,Quebec,Canada.
 -  I’m currently working on ML, Augumented Reality and AI.
 ### Languages and Tools:  
 
