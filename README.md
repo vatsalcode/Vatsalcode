@@ -31,6 +31,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
+### Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/vatsalcode/count.svg)
 
 ### 🔧 Technologies
 ![C#](https://img.icons8.com/color/25/000000/c-sharp-logo.png)![Python](https://img.icons8.com/color/30/000000/python.png)![WordPress](https://img.icons8.com/color/25/wordpress.png)![NPM](https://img.icons8.com/color/25/npm.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
