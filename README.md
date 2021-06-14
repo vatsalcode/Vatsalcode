@@ -20,7 +20,8 @@
 
 
 -  3rd Year Undergrad majoring in Computer Science and Engineering.
--  Incoming Research Intern'21 at Mitacs Globalink ETS-Montreal,Quebec,Canada.
+-  Research Intern MIT, Media Labs, Cambridge.
+-  Research Intern'21 at Mitacs Globalink ETS-Montreal,Quebec,Canada.
 -  I’m currently working on ML, Augumented Reality and AI.
 ### Languages and Tools:  
 
