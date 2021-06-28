@@ -19,10 +19,10 @@
 <br/>
 
 
--  3rd Year Undergrad majoring in Computer Science and Engineering.
+-  Senior Year Undergrad majoring in Computer Science and Engineering.
 -  Research Intern MIT, Media Labs, Cambridge.
 -  Research Intern'21 at Mitacs Globalink ETS-Montreal,Quebec,Canada.
--  I’m currently working on ML, Augumented Reality and AI.
+-  Exploring applied Machine Learning, NLP, Deep Learning and Software Design Pattern & Practices.
 ### Languages and Tools:  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
