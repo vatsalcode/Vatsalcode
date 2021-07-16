@@ -20,8 +20,8 @@
 
 
 -  Senior Year Undergrad majoring in Computer Science and Engineering.
--  Research Intern MIT, Media Labs, Cambridge.
--  Research Intern'21 at Mitacs Globalink ETS-Montreal,Quebec,Canada.
+-  Research Intern MIT, Media Labs, Cambridge, MA, USA.
+-  Ex-Research Intern'21 at Mitacs Globalink ETS-Montreal,Quebec,Canada.
 -  Exploring applied Machine Learning, NLP, Deep Learning and Software Design Pattern & Practices.
 ### Languages and Tools:  
 
