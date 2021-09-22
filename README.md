@@ -1,28 +1,24 @@
-## Hey, I'm [Vatsal Verma!] 
+         _________________________________________
+        / Hi, I am Vatsal Verma. I am currently     \
+       | working as Resarch Intern at MIT Meida Lab, |
+       | Cambridge, MA in field of natural language  |
+       | processing,interpretable machine learning,  |
+       | and randomized field experiment.            |
+       | Previsouly, worked at ETS Montreal,Canada as|
+       | Mitacs Resarch Intern at LASI Lab and worked| 
+       | on resarch study of Frameworks.Also, I am   |
+        \  not a penguin; much worse, I am a human  /
+          -----------------------------------------
+            \
+             \
+                 .--.
+                |o_o |
+                |:_/ |
+               //   \ \
+              (|     | )
+             /'\_   _/`\
+             \___)=(___/
 
-
- 
-<a href="https://www.linkedin.com/in/vatsal-verma22/">
-  <img align="left" alt="Vatsal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/vatsalcode">
-  <img align="left" alt="Vatsal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
-<a href="https://www.instagram.com/whovatsal/?hl=en">
-  <img align="left" alt="Vatsal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/vatsal.vtsu/">
-  <img align="left" alt="Vatsal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br/>
-<br/>
-
-
--  Senior Year Undergrad majoring in Computer Science and Engineering.
--  Research Intern MIT, Media Labs, Cambridge, MA, USA.
--  Ex-Research Intern'21 at Mitacs Globalink ETS-Montreal,Quebec,Canada.
--  Exploring applied Machine Learning, NLP, Deep Learning and Software Design Pattern & Practices.
 ### Languages and Tools:  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
