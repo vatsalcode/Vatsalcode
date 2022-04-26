@@ -1,13 +1,5 @@
          _________________________________________
-        / Hi, I am Vatsal Verma. I am currently     \
-       | working as Resarch Intern at MIT Meida Lab, |
-       | Cambridge, MA in field of natural language  |
-       | processing,interpretable machine learning,  |
-       | and randomized field experiment.            |
-       | Previsouly, worked at ETS Montreal,Canada as|
-       | Mitacs Resarch Intern at LASI Lab and worked| 
-       | on resarch study of Frameworks.Also, I am   |
-        \  not a penguin; much worse, I am a human  /
+        / Hi, I am Vatsal Verma                   \
           -----------------------------------------
             \
              \
